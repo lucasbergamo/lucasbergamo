@@ -61,3 +61,10 @@ Cursando pós-graduação em **Machine Learning Engineering** na FIAP.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbergamo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbergamo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasbergamo/lucasbergamo/output/profile-night-green.svg">
+  <img src="https://raw.githubusercontent.com/lucasbergamo/lucasbergamo/output/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
+</picture>
