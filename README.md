@@ -64,7 +64,4 @@ Cursando pós-graduação em **Machine Learning Engineering** na FIAP.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasbergamo/lucasbergamo/output/profile-night-green.svg">
-  <img src="https://raw.githubusercontent.com/lucasbergamo/lucasbergamo/output/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/lucasbergamo/lucasbergamo/output/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
