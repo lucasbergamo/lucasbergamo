@@ -4,7 +4,7 @@ Engenheiro de Dados com 4 anos de experiência construindo pipelines robustos, a
 
 Atuo de ponta a ponta no ciclo de dados — do entendimento da dor do negócio até a entrega do dado confiável em produção. Construo pipelines multi-tenant com processamento batch, incremental e streaming, incluindo CDC com Debezium — com observabilidade e validações que garantem qualidade e confiabilidade.
 
-Cursando pós-graduação em **Machine Learning Engineering** na FIAP.
+Nos últimos meses venho estendendo a atuação pra **Machine Learning Engineering**, cursando a pós na FIAP: hoje também treino, versiono e sirvo modelos (PyTorch, MLflow, DVC), com a mesma disciplina de pipeline e observabilidade que já uso em dados.
 
 ### Stack
 
@@ -19,6 +19,7 @@ Cursando pós-graduação em **Machine Learning Engineering** na FIAP.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Dados & Storage**
@@ -40,6 +41,8 @@ Cursando pós-graduação em **Machine Learning Engineering** na FIAP.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Trajetória
 
